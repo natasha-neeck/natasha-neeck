@@ -1,4 +1,4 @@
-## Hello! I am Natasha Neeck.
+## Hello, I am Natasha Neeck.
 
 <!--
 **natasha-neeck/natasha-neeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
